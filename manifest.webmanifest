@@ -1,0 +1,9 @@
+{
+  "name": "وين سيارتي 🚗📍",
+  "short_name": "وين سيارتي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f10",
+  "theme_color": "#009688",
+  "orientation": "portrait"
+}
